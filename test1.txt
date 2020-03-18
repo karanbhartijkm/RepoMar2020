@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is C4EB-F41B
+
+ Directory of D:\Git_Data
+
+18/Mar/20  12:33 PM    <DIR>          .
+18/Mar/20  12:33 PM    <DIR>          ..
+17/Dec/19  02:33 PM               585 Git_Repo_Steps
+23/Aug/19  04:32 PM    <DIR>          Project1
+18/Mar/20  09:40 AM    <DIR>          Repo2
+18/Mar/20  12:33 PM                 0 test1.txt
+               2 File(s)            585 bytes
+               4 Dir(s)  29,668,196,352 bytes free
